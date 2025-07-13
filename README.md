@@ -1,4 +1,4 @@
-Data Release for "Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run
+## Data Release for "Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run
 
 Event files
  * O1O3_events.txt : Events from the 4-ogc catalog
