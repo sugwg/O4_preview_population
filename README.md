@@ -8,3 +8,6 @@ Event files
 ```
 event_name, snr, snr_error, chirp_mass, chirp_mass_lower_error, chirp_mass_upper_error, redshift, redshift_lower_error, redshift_upper_error
 ```
+
+
+![pop_dist](https://github.com/user-attachments/assets/cbc5b452-92fc-4363-a03d-6c62e3a5d314)
